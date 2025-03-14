@@ -2,7 +2,7 @@
 
 - [ATIVIDADE 1 ]( https://thaystavaress.github.io/atividade01/)
 - [ATIVIDADE 2 ](https://thaystavaress.github.io/Atividade-02-Web1/)
-- [ATIVIDADE 3 ]( https://thaystavaress.github.io/Atividade-03/)
+- [ATIVIDADE 3 ](  https://thaystavaress.github.io/Atividade-03/)
 - [ATIVIDADE 4 ](https://thaystavaress.github.io/Atividade-04/)
 - [ATIVIDADE 5 ](https://thaystavaress.github.io/Atividade-05/)
 - [ATIVIDADE 6 ](https://thaystavaress.github.io/Atividade-06/)
