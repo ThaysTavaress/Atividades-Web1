@@ -5,7 +5,7 @@
 - [ATIVIDADE 3 ]( https://thaystavaress.github.io/Atividade-03/)
 - [ATIVIDADE 4 ](https://thaystavaress.github.io/Atividade-04/)
 - [ATIVIDADE 5 ](https://thaystavaress.github.io/Atividade-05/)
-- [ATIVIDADE 6 ]()
+- [ATIVIDADE 6 ](https://thaystavaress.github.io/Atividade-06/)
 - [ATIVIDADE 7 ]()
 - [ATIVIDADE 8 ]()
 - [ATIVIDADE 9 ]()
