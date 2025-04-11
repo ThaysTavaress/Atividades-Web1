@@ -11,6 +11,6 @@
 - [ATIVIDADE 9 ](https://thaystavaress.github.io/Atividade-09/)
 - [ATIVIDADE 10 ](https://thaystavaress.github.io/Atividade-10/)
 - [ATIVIDADE 11 ](https://thaystavaress.github.io/Atividade-11/)
-- [ATIVIDADE 12 ]()
+- [ATIVIDADE 12 ](https://thaystavaress.github.io/Atividade-12/)
 - [ATIVIDADE 13 ]()
 - [ATIVIDADE 14 ]()
